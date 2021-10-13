@@ -17,7 +17,7 @@ specific language governing permissions and limitations
 under the License.
 -->
 ## Change Log
-
+##
 ### 1.1 (Wed Feb 24 12:08:28 2021 +0200)
 
 **Database Migrations**
